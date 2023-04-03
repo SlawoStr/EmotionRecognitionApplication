@@ -2,7 +2,7 @@
 
 # 1.Emotion Recognition Application
 
-![Image of APP](https://github.com/SlawekStr/Applications/blob/main/EmotionRecognitionApps/visualisation/GUI.PNG)
+![Image of APP](https://github.com/SlawoStr/EmotionRecognitionApplication/blob/master/EmotionRecognitionApps/visualisation/GUI.PNG)
 
 Application have 3 different face detectors.
 1. Haar Cascade Classifier
@@ -17,22 +17,22 @@ Application have 3 differnet classifiers.
 Facial Feature Points are detected by dlib 68 landmark detector
 
 Application allows to detect emotions on all faces in image
-![Image of APP](https://github.com/SlawekStr/Applications/blob/main/EmotionRecognitionApps/visualisation/GUI-MultipleFaces.PNG)
+![Image of APP](https://github.com/SlawoStr/EmotionRecognitionApplication/blob/master/EmotionRecognitionApps/visualisation/GUI-MultipleFaces.PNG)
 
 For each image application allows to :
 1. Check all emotions on image
 2. Check all features points on all faces  
-![Image of APP](https://github.com/SlawekStr/Applications/blob/main/EmotionRecognitionApps/visualisation/Option2.PNG)
+![Image of APP](https://github.com/SlawoStr/EmotionRecognitionApplication/blob/master/EmotionRecognitionApps/visualisation/Option2.PNG)
 3. Check emotion on single face  
-![Image of APP](https://github.com/SlawekStr/Applications/blob/main/EmotionRecognitionApps/visualisation/Option3.PNG)
+![Image of APP](https://github.com/SlawoStr/EmotionRecognitionApplication/blob/master/EmotionRecognitionApps/visualisation/Option3.PNG)
 4. Check features localiation on single face  
-![Image of APP](https://github.com/SlawekStr/Applications/blob/main/EmotionRecognitionApps/visualisation/Option4.PNG)
+![Image of APP](https://github.com/SlawoStr/EmotionRecognitionApplication/blob/master/EmotionRecognitionApps/visualisation/Option4.PNG)
 
 3 Errors are handled:  
 1. Empty Path  
 2. Wrong Path/extension/file  
 3. No faces on image  
-![Image of APP](https://github.com/SlawekStr/Applications/blob/main/EmotionRecognitionApps/visualisation/Error.PNG)
+![Image of APP](https://github.com/SlawoStr/EmotionRecognitionApplication/blob/master/EmotionRecognitionApps/visualisation/Error.PNG)
 
 
 # 2.Emotion Recognition- Manual
